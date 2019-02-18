@@ -4,7 +4,7 @@
 # GLOBALS                                                                       #
 #################################################################################
 
-BUCKET = 'rajk-data-challenges'
+BUCKET = rajk-data-challenges
 PROFILE = default
 
 ## Upload Data to S3
